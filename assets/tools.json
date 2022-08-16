@@ -1167,6 +1167,7 @@
         "name": "ECU-TEST",
         "license": "commercial",
         "url": "https://www.tracetronic.com/products/ecu-test/",
+        "logo": "ECU-test.svg",
         "vendor": "TraceTronic",
         "vendorURL": "https://www.tracetronic.com/",
         "description": "ECU-TEST is an intuitive test tool for creating test cases for automotive software in any development phase and for their automatic execution, supporting a variety of test execution or test process tools",
