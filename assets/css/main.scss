@@ -3,11 +3,14 @@
 # only Main files contain this front matter, not partials.
 ---
 
-@import "bootstrap";
+/* */
 
-a {
-  text-decoration: none
-}
+$blue: #1749b8;
+$red:  #BD0023;
+
+$link-decoration: none !default;
+
+@import "bootstrap";
 
 .content {
   width: 45rem;
